@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/UnrealEngine/Project/FootIKPlacement/.vscode": true,
+		"D:/UnrealEngine/Project/FootIKPlacement/Content": true,
+		"D:/UnrealEngine/Project/FootIKPlacement/Intermediate": true
+	}
+}
